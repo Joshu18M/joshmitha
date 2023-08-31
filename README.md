@@ -1,2 +1,2 @@
 # joshmitha
-being kind cost nothing
+being kind cost nothing;
